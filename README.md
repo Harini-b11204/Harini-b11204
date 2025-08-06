@@ -1,6 +1,6 @@
 # Hi, I'm Harini 👋
 
-🎓 3rd Year B.Tech in AI & Data Science at K.Ramakrishnan College of Engineering  
+🎓 Final Year student pursuing B.Tech in AI & Data Science at K.Ramakrishnan College of Engineering  
 ☁️ AWS Cloud Practitioner | 🧠 Machine Learning | 💻 Web Developer  
 🌱 Currently learning ReactJS, MongoDB, and Data Visualization  
 ✨ Projects in AI, Cloud, and Web Apps
