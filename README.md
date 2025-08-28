@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harini-b11204&color=blue)
 ![Visitors](https://komarev.com/ghpvc/?username=Harini-b11204&color=ff69b4)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harini-b11204&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Metrics](https://github.com/Harini-b11204Harini-b11204/blob/main/github-metrics.svg)
 
 
 ## 🔧 Technologies & Tools
