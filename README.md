@@ -6,8 +6,6 @@
 ✨ Projects in AI, Cloud, and Web Apps
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harini-b11204&color=blue)
-![Visitors](https://komarev.com/ghpvc/?username=Harini-b11204&color=ff69b4)
-![Metrics](https://github.com/Harini-b11204Harini-b11204/blob/main/github-metrics.svg)
 
 
 ## 🔧 Technologies & Tools
