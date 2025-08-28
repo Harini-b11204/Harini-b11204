@@ -4,6 +4,7 @@
 ☁️ AWS Cloud Practitioner | 🧠 Machine Learning | 💻 Web Developer  
 🌱 Currently learning ReactJS, MongoDB, and Data Visualization  
 ✨ Projects in AI, Cloud, and Web Apps
+![Profile Views](https://komarev.com/ghpvc/?username=Harini-b11204&color=blue)
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
